@@ -1,0 +1,29 @@
+/* This is the css file */
+
+.mid-container {
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    max-width: 50%;
+    color: white;
+    margin-top: calc(100vh/ 2.5); /* calculates the height of the screen and divides it*/
+}
+
+.next {
+    font-size: 2em;
+    float: right;
+}
+
+.lang {
+    font-family: arial;
+}
+
+.lang-word {
+    font-size: 3em;
+    font-family: roboto;
+}
+
+body {
+    transition:background-color 1.5s ease;
+   
+  }
